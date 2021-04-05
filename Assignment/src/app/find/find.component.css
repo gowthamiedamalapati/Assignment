@@ -1,0 +1,49 @@
+.main{
+   
+    padding: 10px;
+    max-width: 100%;
+    height: 100%;
+    /* background-color: rgb(191, 235, 201); */
+    /* background-image: url(../../assets/photos/background.jpg); */
+    /* overflow-x: hidden; */
+}
+.main h3{
+    text-align:center;
+}
+.main .search{
+    margin-left: 400px;
+}
+.main input{
+    margin-left: 50px;
+    width: 300px;
+}
+.main select{
+    width: 125px;
+    height: 29px;
+    padding: 2px;
+}
+.table{
+    align-items: center;
+}
+table{
+    margin-top: 30px;
+    margin-left: 100px;
+    border: 1px solid;
+}
+table th{
+    width: 160px;
+    text-align: center;
+}
+table td{
+    text-align: center;
+}
+.pages{
+    display: flex;
+}
+.table label{
+    padding-top: 25px;
+    margin-left: 700px;
+}
+.table select{
+    width: 60px;
+}
